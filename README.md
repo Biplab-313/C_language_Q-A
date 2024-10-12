@@ -14,7 +14,3 @@ Check out the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to c
 4. Make your changes and commit them.
 5. Push your changes to your forked repository.
 6. Create a pull request to the main repository.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
